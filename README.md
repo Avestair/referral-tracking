@@ -113,8 +113,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 1.  **Clone the repository:**
 
     ```bash
+    # with http
     git clone https://github.com/YOURUSERNAME/referral-tracking.git
-    OR
+    # or with ssh
     git clone git@github.com:YOURUSERNAME/referral-tracking.git
     cd referral-tracking
     ```
