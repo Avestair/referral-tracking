@@ -34,8 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 1.  **Clone the repository:**
 
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_PROJECT_FOLDER_NAME]
+    git clone https://github.com/Avestair/referral-tracking.git
+    cd referral-tracking
     ```
 
 2.  **Install dependencies:**
